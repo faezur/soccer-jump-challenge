@@ -17,17 +17,17 @@ Compete on global leaderboards by achieving high scores. Reach new heights, set 
 Enjoy smooth and responsive controls that make it easy to perform accurate jumps and maneuvers. Whether you're a casual player or a seasoned gamer, Soccer Jump Challenge offers an accessible yet challenging gaming experience.
 
 ## Feature
-Dynamic Gameplay: Combine soccer skills with precision jumping.
-Challenging Obstacles: Navigate through various platforms and hurdles.
-Customization: Personalize your soccer ball with unique designs.
-Leaderboards: Compete globally for the highest scores.
-Intuitive Controls: Enjoy smooth and responsive gameplay.
+- Dynamic Gameplay: Combine soccer skills with precision jumping.
+- Challenging Obstacles: Navigate through various platforms and hurdles.
+- Customization: Personalize your soccer ball with unique designs.
+- Leaderboards: Compete globally for the highest scores.
+- Intuitive Controls: Enjoy smooth and responsive gameplay.
 
 ## Gameplay Video
 
-Watch Gameplay Video (https://youtu.be/cJPwTE2E0v4)
+[Watch Gameplay Video](https://youtu.be/cJPwTE2E0v4)
 
 ## Technologies Used
-Game Engine: Unity
-Programming Language: C#
-Other Tools: Photoshop for UI design
+- Game Engine: Unity
+- Programming Language: C#
+- Other Tools: Photoshop for UI design
